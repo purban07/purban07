@@ -3,13 +3,16 @@
 🚀 Passionate about learning, building, and improving through code.  
 💻 Interested in software development, databases, and problem-solving.  
 📚 Currently exploring new technologies and strengthening core programming skills.  
-🤝 Open to collaboration on interesting projects and ideas.  
+🤝 Open to collaboration on interesting projects and ideas.
 
-### A little more about me
-- 🔭 I’m currently working on improving my technical skills  
-- 🌱 I’m learning new tools, frameworks, and best practices  
-- 💬 Ask me about programming, databases, or project design  
-- ⚡ Fun fact: I enjoy turning ideas into working solutions  
+👉 Check out my repositories:  
+🔗 https://github.com/purban07?tab=repositories
 
-📫 **Let’s connect:**  
-Feel free to check out my repositories or reach out for collaboration!
+## 💬 Ask Me About
+- Programming fundamentals  
+- Databases & SQL  
+- Project structure and design  
+
+## 📫 How to Reach Me
+- GitHub: 🔗 https://github.com/purban07  
+- Email: 📧 your-email@example.com  
