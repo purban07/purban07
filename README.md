@@ -5,7 +5,7 @@
 📚 Currently exploring new technologies and strengthening core programming skills.  
 🤝 Open to collaboration on interesting projects and ideas.
 
-👉 Check out my repositories:  
+##👉 Check out my repositories:  
 🔗 https://github.com/purban07?tab=repositories
 
 ## 💬 Ask Me About
