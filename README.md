@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Peter
 
-<!--
-**purban07/purban07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about learning, building, and improving through code.  
+💻 Interested in software development, databases, and problem-solving.  
+📚 Currently exploring new technologies and strengthening core programming skills.  
+🤝 Open to collaboration on interesting projects and ideas.  
 
-Here are some ideas to get you started:
+### A little more about me
+- 🔭 I’m currently working on improving my technical skills  
+- 🌱 I’m learning new tools, frameworks, and best practices  
+- 💬 Ask me about programming, databases, or project design  
+- ⚡ Fun fact: I enjoy turning ideas into working solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s connect:**  
+Feel free to check out my repositories or reach out for collaboration!
